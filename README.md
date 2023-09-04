@@ -37,8 +37,8 @@ I am a student currently pursuing a degree in Electronic and Computer Engineerin
 
 ### 📊 Stats
 <a href="https://github.com/EZanelaA/github-readme-stats">
-  <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=EZanelaA&show_icons=true&theme=nord" />
+  <img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=EZanelaA&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/EZanelaA/convoychat">
-  <img height=175 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZanelaA&layout=compact&theme=nord" />
+  <img height=190 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZanelaA&layout=compact&theme=nord" />
 </a>
